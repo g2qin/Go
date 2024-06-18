@@ -1,2 +1,2 @@
 # Go
-go, go, go, go
+pretty atrocious html-based game
