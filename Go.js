@@ -216,7 +216,7 @@ window.addEventListener('keydown', (event) => {
                 player2.blocking = true;
             }
         break;
-        case '[':
+        case ']':
             player2.rAttack();
         break;
     }
